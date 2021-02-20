@@ -5,7 +5,7 @@
 
 ####  🌍 Currently open to work
 
-####  📫 How to reach me: [LinkedIn] (www.linkedin.com/in/jelena-dugonjić-4551994)
+####  📫 How to reach me: [LinkedIn](www.linkedin.com/in/jelena-dugonjić-4551994/)
            
            
 
