@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jelena
 
 
-####  🔭 I’m currently working on different React.js projects
+####  🔭 I’m currently working on React Native project at Hearted Inc
 
 
 
